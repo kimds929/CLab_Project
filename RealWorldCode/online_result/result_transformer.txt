@@ -1,0 +1,470 @@
+241220_232620-kakao: avg_Velocity: 23m/s, # of api call: 3, Is in allowance range? : True, -9.866666666666667
+241220_232620-Tmap: avg_Velocity: 23m/s, # of api call: 2, Is in allowance range? : True, -9.466666666666667
+241220_232619-kakao: avg_Velocity: 28m/s, # of api call: 3, Is in allowance range? : True, -12.65
+241220_232619-Tmap: avg_Velocity: 28m/s, # of api call: 3, Is in allowance range? : True, -10.633333333333333
+241220_232620-kakao: avg_Velocity: 21m/s, # of api call: 3, Is in allowance range? : True, -11.216666666666667
+241220_232620-Tmap: avg_Velocity: 21m/s, # of api call: 4, Is in allowance range? : True, -8.65
+241220_232619-kakao: avg_Velocity: 23m/s, # of api call: 4, Is in allowance range? : True, -11.083333333333334
+241220_232619-Tmap: avg_Velocity: 23m/s, # of api call: 3, Is in allowance range? : True, -12.683333333333334
+241220_232618-kakao: avg_Velocity: 4m/s, # of api call: 3, Is in allowance range? : True, -10.566666666666666
+241220_232618-Tmap: avg_Velocity: 4m/s, # of api call: 3, Is in allowance range? : True, -10.666666666666666
+241220_232620-kakao: avg_Velocity: 17m/s, # of api call: 3, Is in allowance range? : True, -12.716666666666667
+241220_232620-Tmap: avg_Velocity: 17m/s, # of api call: 3, Is in allowance range? : True, -10.283333333333333
+241220_232620-kakao: avg_Velocity: 15m/s, # of api call: 4, Is in allowance range? : True, -10.983333333333333
+241220_232620-Tmap: avg_Velocity: 15m/s, # of api call: 3, Is in allowance range? : True, -8.916666666666666
+241220_232620-kakao: avg_Velocity: 11m/s, # of api call: 5, Is in allowance range? : True, -8.566666666666666
+241220_232620-Tmap: avg_Velocity: 11m/s, # of api call: 4, Is in allowance range? : True, -9.133333333333333
+241220_232620-kakao: avg_Velocity: 20m/s, # of api call: 4, Is in allowance range? : True, -11.45
+241220_232620-Tmap: avg_Velocity: 20m/s, # of api call: 4, Is in allowance range? : True, -8.816666666666666
+241220_232620-kakao: avg_Velocity: 22m/s, # of api call: 3, Is in allowance range? : True, -10.6
+241220_232620-Tmap: avg_Velocity: 22m/s, # of api call: 4, Is in allowance range? : True, -8.15
+241221_001950-kakao: avg_Velocity: 30m/s, # of api call: 2, Is in allowance range? : True, -12.783333333333333
+241221_001950-Tmap: avg_Velocity: 30m/s, # of api call: 3, Is in allowance range? : True, -11.583333333333334
+241221_002401-kakao: avg_Velocity: 13m/s, # of api call: 3, Is in allowance range? : True, -11.283333333333333
+241221_002401-Tmap: avg_Velocity: 13m/s, # of api call: 3, Is in allowance range? : True, -9.066666666666666
+241221_002727-kakao: avg_Velocity: 9m/s, # of api call: 3, Is in allowance range? : True, -11.75
+241221_002727-Tmap: avg_Velocity: 9m/s, # of api call: 2, Is in allowance range? : True, -11.283333333333333
+241221_002330-kakao: avg_Velocity: 25m/s, # of api call: 6, Is in allowance range? : True, -11.666666666666666
+241221_002330-Tmap: avg_Velocity: 25m/s, # of api call: 6, Is in allowance range? : True, -12.033333333333333
+241221_002759-kakao: avg_Velocity: 26m/s, # of api call: 5, Is in allowance range? : True, -10.966666666666667
+241221_002759-Tmap: avg_Velocity: 26m/s, # of api call: 5, Is in allowance range? : True, -12.766666666666667
+241221_002756-kakao: avg_Velocity: 17m/s, # of api call: 6, Is in allowance range? : True, -10.7
+241221_002756-Tmap: avg_Velocity: 17m/s, # of api call: 6, Is in allowance range? : True, -9.883333333333333
+241221_003012-kakao: avg_Velocity: 22m/s, # of api call: 5, Is in allowance range? : True, -12.55
+241221_003012-Tmap: avg_Velocity: 22m/s, # of api call: 6, Is in allowance range? : True, -10.616666666666667
+241221_002712-kakao: avg_Velocity: 27m/s, # of api call: 7, Is in allowance range? : True, -10.783333333333333
+241221_002712-Tmap: avg_Velocity: 27m/s, # of api call: 7, Is in allowance range? : True, -11.683333333333334
+241221_003546-kakao: avg_Velocity: 27m/s, # of api call: 5, Is in allowance range? : True, -10.866666666666667
+241221_003546-Tmap: avg_Velocity: 27m/s, # of api call: 4, Is in allowance range? : True, -11.866666666666667
+241221_003252-kakao: avg_Velocity: 16m/s, # of api call: 7, Is in allowance range? : True, -10.55
+241221_003252-Tmap: avg_Velocity: 16m/s, # of api call: 7, Is in allowance range? : True, -12.366666666666667
+241221_012056-kakao: avg_Velocity: 30m/s, # of api call: 3, Is in allowance range? : True, -10.6
+241221_012056-Tmap: avg_Velocity: 30m/s, # of api call: 3, Is in allowance range? : True, -9.533333333333333
+241221_025224-kakao: avg_Velocity: 23m/s, # of api call: 3, Is in allowance range? : True, -11.8
+241221_025224-Tmap: avg_Velocity: 23m/s, # of api call: 2, Is in allowance range? : True, -12.0
+241221_025226-kakao: avg_Velocity: 7m/s, # of api call: 3, Is in allowance range? : True, -11.233333333333333
+241221_025226-Tmap: avg_Velocity: 7m/s, # of api call: 3, Is in allowance range? : True, -9.283333333333333
+241221_025223-kakao: avg_Velocity: 28m/s, # of api call: 4, Is in allowance range? : True, -12.783333333333333
+241221_025223-Tmap: avg_Velocity: 28m/s, # of api call: 5, Is in allowance range? : True, -9.233333333333333
+241221_025223-kakao: avg_Velocity: 17m/s, # of api call: 5, Is in allowance range? : True, -10.816666666666666
+241221_025223-Tmap: avg_Velocity: 17m/s, # of api call: 3, Is in allowance range? : True, -11.716666666666667
+241221_025223-kakao: avg_Velocity: 20m/s, # of api call: 6, Is in allowance range? : True, -8.2
+241221_025223-Tmap: avg_Velocity: 20m/s, # of api call: 5, Is in allowance range? : True, -11.283333333333333
+241221_035158-kakao: avg_Velocity: 1m/s, # of api call: 3, Is in allowance range? : True, -11.4
+241221_035158-Tmap: avg_Velocity: 1m/s, # of api call: 3, Is in allowance range? : True, -11.25
+241221_035509-kakao: avg_Velocity: 20m/s, # of api call: 3, Is in allowance range? : True, -10.433333333333334
+241221_035509-Tmap: avg_Velocity: 20m/s, # of api call: 3, Is in allowance range? : True, -10.55
+241221_035159-kakao: avg_Velocity: 19m/s, # of api call: 5, Is in allowance range? : True, -10.1
+241221_035159-Tmap: avg_Velocity: 19m/s, # of api call: 5, Is in allowance range? : True, -10.716666666666667
+241221_034556-kakao: avg_Velocity: 12m/s, # of api call: 8, Is in allowance range? : True, -10.25
+241221_034556-Tmap: avg_Velocity: 12m/s, # of api call: 7, Is in allowance range? : True, -12.75
+241221_034554-kakao: avg_Velocity: 16m/s, # of api call: 7, Is in allowance range? : True, -11.783333333333333
+241221_034554-Tmap: avg_Velocity: 16m/s, # of api call: 8, Is in allowance range? : True, -10.733333333333333
+241221_044528-kakao: avg_Velocity: 23m/s, # of api call: 2, Is in allowance range? : True, -11.85
+241221_044528-Tmap: avg_Velocity: 23m/s, # of api call: 2, Is in allowance range? : True, -10.866666666666667
+241221_045129-kakao: avg_Velocity: 12m/s, # of api call: 5, Is in allowance range? : True, -10.95
+241221_045129-Tmap: avg_Velocity: 12m/s, # of api call: 5, Is in allowance range? : True, -10.316666666666666
+241221_044840-kakao: avg_Velocity: 2m/s, # of api call: 6, Is in allowance range? : True, -8.433333333333334
+241221_044840-Tmap: avg_Velocity: 2m/s, # of api call: 5, Is in allowance range? : True, -12.183333333333334
+241221_053555-kakao: avg_Velocity: 2m/s, # of api call: 5, Is in allowance range? : True, -8.683333333333334
+241221_053555-Tmap: avg_Velocity: 2m/s, # of api call: 4, Is in allowance range? : True, -11.316666666666666
+241221_054449-kakao: avg_Velocity: 21m/s, # of api call: 3, Is in allowance range? : True, -10.316666666666666
+241221_054449-Tmap: avg_Velocity: 21m/s, # of api call: 3, Is in allowance range? : True, -11.25
+241221_054453-kakao: avg_Velocity: 25m/s, # of api call: 6, Is in allowance range? : True, -11.483333333333333
+241221_054453-Tmap: avg_Velocity: 25m/s, # of api call: 6, Is in allowance range? : True, -11.033333333333333
+241221_055106-kakao: avg_Velocity: 1m/s, # of api call: 4, Is in allowance range? : True, -12.833333333333334
+241221_055106-Tmap: avg_Velocity: 1m/s, # of api call: 4, Is in allowance range? : True, -11.1
+241221_185354-kakao: avg_Velocity: 19m/s, # of api call: 3, Is in allowance range? : True, -9.216666666666667
+241221_185354-Tmap: avg_Velocity: 19m/s, # of api call: 3, Is in allowance range? : True, -9.516666666666667
+241221_185354-kakao: avg_Velocity: 6m/s, # of api call: 4, Is in allowance range? : True, -9.833333333333334
+241221_185354-Tmap: avg_Velocity: 6m/s, # of api call: 4, Is in allowance range? : True, -7.95
+241221_185349-kakao: avg_Velocity: 4m/s, # of api call: 4, Is in allowance range? : True, -11.566666666666666
+241221_185349-Tmap: avg_Velocity: 4m/s, # of api call: 4, Is in allowance range? : True, -12.7
+241221_185355-kakao: avg_Velocity: 12m/s, # of api call: 4, Is in allowance range? : True, -8.2
+241221_185355-Tmap: avg_Velocity: 12m/s, # of api call: 4, Is in allowance range? : True, -8.066666666666666
+241221_185354-kakao: avg_Velocity: 1m/s, # of api call: 5, Is in allowance range? : True, -10.583333333333334
+241221_185354-Tmap: avg_Velocity: 1m/s, # of api call: 6, Is in allowance range? : True, -8.916666666666666
+241221_194829-kakao: avg_Velocity: 16m/s, # of api call: 3, Is in allowance range? : True, -10.616666666666667
+241221_194829-Tmap: avg_Velocity: 16m/s, # of api call: 3, Is in allowance range? : True, -10.516666666666667
+241221_195829-kakao: avg_Velocity: 7m/s, # of api call: 3, Is in allowance range? : True, -12.716666666666667
+241221_195829-Tmap: avg_Velocity: 7m/s, # of api call: 4, Is in allowance range? : True, -11.65
+241221_200530-kakao: avg_Velocity: 14m/s, # of api call: 4, Is in allowance range? : True, -10.3
+241221_200530-Tmap: avg_Velocity: 14m/s, # of api call: 4, Is in allowance range? : True, -11.15
+241221_201342-kakao: avg_Velocity: 4m/s, # of api call: 3, Is in allowance range? : True, -8.983333333333333
+241221_201342-Tmap: avg_Velocity: 4m/s, # of api call: 3, Is in allowance range? : True, -8.5
+241221_201105-kakao: avg_Velocity: 10m/s, # of api call: 3, Is in allowance range? : True, -8.15
+241221_201105-Tmap: avg_Velocity: 10m/s, # of api call: 4, Is in allowance range? : True, -10.316666666666666
+241221_204152-kakao: avg_Velocity: 23m/s, # of api call: 3, Is in allowance range? : True, -11.4
+241221_204152-Tmap: avg_Velocity: 23m/s, # of api call: 3, Is in allowance range? : True, -10.216666666666667
+241221_211239-kakao: avg_Velocity: 16m/s, # of api call: 3, Is in allowance range? : True, -9.483333333333333
+241221_211239-Tmap: avg_Velocity: 16m/s, # of api call: 3, Is in allowance range? : True, -11.983333333333333
+241221_213515-kakao: avg_Velocity: 20m/s, # of api call: 3, Is in allowance range? : True, -10.283333333333333
+241221_213515-Tmap: avg_Velocity: 20m/s, # of api call: 4, Is in allowance range? : True, -10.783333333333333
+241221_212508-kakao: avg_Velocity: 11m/s, # of api call: 7, Is in allowance range? : True, -12.1
+241221_212508-Tmap: avg_Velocity: 11m/s, # of api call: 7, Is in allowance range? : True, -11.016666666666667
+241221_215543-kakao: avg_Velocity: 10m/s, # of api call: 5, Is in allowance range? : True, -12.1
+241221_215543-Tmap: avg_Velocity: 10m/s, # of api call: 5, Is in allowance range? : True, -12.2
+241221_223658-kakao: avg_Velocity: 14m/s, # of api call: 4, Is in allowance range? : True, -11.383333333333333
+241221_223658-Tmap: avg_Velocity: 14m/s, # of api call: 4, Is in allowance range? : True, -10.85
+241221_224546-kakao: avg_Velocity: 7m/s, # of api call: 4, Is in allowance range? : True, -6.516666666666667
+241221_224546-Tmap: avg_Velocity: 7m/s, # of api call: 4, Is in allowance range? : True, -10.716666666666667
+241221_225311-kakao: avg_Velocity: 9m/s, # of api call: 3, Is in allowance range? : True, -4.033333333333333
+241221_225311-Tmap: avg_Velocity: 9m/s, # of api call: 3, Is in allowance range? : True, -8.716666666666667
+241221_230842-kakao: avg_Velocity: 17m/s, # of api call: 3, Is in allowance range? : True, -9.416666666666666
+241221_230842-Tmap: avg_Velocity: 17m/s, # of api call: 3, Is in allowance range? : True, -9.333333333333334
+241221_234202-kakao: avg_Velocity: 21m/s, # of api call: 3, Is in allowance range? : True, -10.583333333333334
+241221_234202-Tmap: avg_Velocity: 21m/s, # of api call: 2, Is in allowance range? : True, -12.15
+241221_235303-kakao: avg_Velocity: 4m/s, # of api call: 3, Is in allowance range? : True, -12.45
+241221_235303-Tmap: avg_Velocity: 4m/s, # of api call: 4, Is in allowance range? : True, -8.316666666666666
+241221_235801-kakao: avg_Velocity: 2m/s, # of api call: 3, Is in allowance range? : True, -11.7
+241221_235801-Tmap: avg_Velocity: 2m/s, # of api call: 3, Is in allowance range? : True, -8.783333333333333
+241222_000600-kakao: avg_Velocity: 7m/s, # of api call: 5, Is in allowance range? : True, -10.7
+241222_000600-Tmap: avg_Velocity: 7m/s, # of api call: 4, Is in allowance range? : True, -11.6
+241222_003525-kakao: avg_Velocity: 23m/s, # of api call: 7, Is in allowance range? : True, -12.833333333333334
+241222_003525-Tmap: avg_Velocity: 23m/s, # of api call: 9, Is in allowance range? : True, -8.683333333333334
+241222_005443-kakao: avg_Velocity: 23m/s, # of api call: 3, Is in allowance range? : True, -12.833333333333334
+241222_005443-Tmap: avg_Velocity: 23m/s, # of api call: 3, Is in allowance range? : True, -10.533333333333333
+241222_005646-kakao: avg_Velocity: 8m/s, # of api call: 5, Is in allowance range? : True, -11.483333333333333
+241222_005646-Tmap: avg_Velocity: 8m/s, # of api call: 5, Is in allowance range? : True, -12.416666666666666
+241222_014709-kakao: avg_Velocity: 5m/s, # of api call: 4, Is in allowance range? : True, -10.283333333333333
+241222_014709-Tmap: avg_Velocity: 5m/s, # of api call: 4, Is in allowance range? : True, -11.333333333333334
+241222_014806-kakao: avg_Velocity: 15m/s, # of api call: 4, Is in allowance range? : True, -11.85
+241222_014806-Tmap: avg_Velocity: 15m/s, # of api call: 3, Is in allowance range? : True, -11.966666666666667
+241222_014302-kakao: avg_Velocity: 10m/s, # of api call: 7, Is in allowance range? : True, -11.4
+241222_014302-Tmap: avg_Velocity: 10m/s, # of api call: 6, Is in allowance range? : True, -10.783333333333333
+241222_015534-kakao: avg_Velocity: 14m/s, # of api call: 3, Is in allowance range? : True, -11.65
+241222_015534-Tmap: avg_Velocity: 14m/s, # of api call: 3, Is in allowance range? : True, -9.733333333333333
+241222_015615-kakao: avg_Velocity: 27m/s, # of api call: 2, Is in allowance range? : True, -12.1
+241222_015615-Tmap: avg_Velocity: 27m/s, # of api call: 3, Is in allowance range? : True, -10.75
+241222_024329-kakao: avg_Velocity: 6m/s, # of api call: 3, Is in allowance range? : True, -11.166666666666666
+241222_024329-Tmap: avg_Velocity: 6m/s, # of api call: 4, Is in allowance range? : True, -9.166666666666666
+241222_024836-kakao: avg_Velocity: 11m/s, # of api call: 3, Is in allowance range? : True, -11.216666666666667
+241222_024836-Tmap: avg_Velocity: 11m/s, # of api call: 2, Is in allowance range? : True, -11.083333333333334
+241222_024937-kakao: avg_Velocity: 3m/s, # of api call: 4, Is in allowance range? : True, -10.133333333333333
+241222_024937-Tmap: avg_Velocity: 3m/s, # of api call: 4, Is in allowance range? : True, -10.766666666666667
+241222_024430-kakao: avg_Velocity: 3m/s, # of api call: 11, Is in allowance range? : False, -14.266666666666667
+241222_024430-Tmap: avg_Velocity: 3m/s, # of api call: 11, Is in allowance range? : True, -10.883333333333333
+241222_033904-kakao: avg_Velocity: 20m/s, # of api call: 5, Is in allowance range? : True, -10.45
+241222_033904-Tmap: avg_Velocity: 20m/s, # of api call: 5, Is in allowance range? : True, -9.883333333333333
+241222_034158-kakao: avg_Velocity: 7m/s, # of api call: 5, Is in allowance range? : True, -12.316666666666666
+241222_034158-Tmap: avg_Velocity: 7m/s, # of api call: 5, Is in allowance range? : True, -11.116666666666667
+241222_034603-kakao: avg_Velocity: 15m/s, # of api call: 4, Is in allowance range? : True, -12.6
+241222_034603-Tmap: avg_Velocity: 15m/s, # of api call: 5, Is in allowance range? : True, -11.266666666666667
+241222_033953-kakao: avg_Velocity: 12m/s, # of api call: 10, Is in allowance range? : True, -10.366666666666667
+241222_033953-Tmap: avg_Velocity: 12m/s, # of api call: 9, Is in allowance range? : True, -11.433333333333334
+241222_040226-kakao: avg_Velocity: 9m/s, # of api call: 2, Is in allowance range? : True, -12.466666666666667
+241222_040226-Tmap: avg_Velocity: 9m/s, # of api call: 3, Is in allowance range? : True, -11.8
+241222_044129-kakao: avg_Velocity: 21m/s, # of api call: 4, Is in allowance range? : True, -11.683333333333334
+241222_044129-Tmap: avg_Velocity: 21m/s, # of api call: 4, Is in allowance range? : True, -12.833333333333334
+241222_044102-kakao: avg_Velocity: 10m/s, # of api call: 6, Is in allowance range? : True, -10.516666666666667
+241222_044102-Tmap: avg_Velocity: 10m/s, # of api call: 6, Is in allowance range? : True, -12.133333333333333
+241222_045123-kakao: avg_Velocity: 12m/s, # of api call: 4, Is in allowance range? : True, -10.283333333333333
+241222_045123-Tmap: avg_Velocity: 12m/s, # of api call: 3, Is in allowance range? : True, -9.983333333333333
+241222_045546-kakao: avg_Velocity: 1m/s, # of api call: 4, Is in allowance range? : True, -12.383333333333333
+241222_045546-Tmap: avg_Velocity: 1m/s, # of api call: 4, Is in allowance range? : True, -10.566666666666666
+241222_045437-kakao: avg_Velocity: 23m/s, # of api call: 5, Is in allowance range? : True, -10.8
+241222_045437-Tmap: avg_Velocity: 23m/s, # of api call: 6, Is in allowance range? : True, -8.933333333333334
+241222_053753-kakao: avg_Velocity: 24m/s, # of api call: 5, Is in allowance range? : True, -10.133333333333333
+241222_053753-Tmap: avg_Velocity: 24m/s, # of api call: 4, Is in allowance range? : True, -10.533333333333333
+241222_054714-kakao: avg_Velocity: 21m/s, # of api call: 4, Is in allowance range? : True, -10.566666666666666
+241222_054714-Tmap: avg_Velocity: 21m/s, # of api call: 2, Is in allowance range? : True, -12.466666666666667
+241222_054746-kakao: avg_Velocity: 20m/s, # of api call: 4, Is in allowance range? : True, -11.683333333333334
+241222_054746-Tmap: avg_Velocity: 20m/s, # of api call: 5, Is in allowance range? : True, -8.65
+241222_055209-kakao: avg_Velocity: 17m/s, # of api call: 5, Is in allowance range? : True, -10.766666666666667
+241222_055209-Tmap: avg_Velocity: 17m/s, # of api call: 4, Is in allowance range? : True, -11.816666666666666
+241222_060000-kakao: avg_Velocity: 22m/s, # of api call: 3, Is in allowance range? : True, -11.366666666666667
+241222_060000-Tmap: avg_Velocity: 22m/s, # of api call: 2, Is in allowance range? : True, -12.016666666666667
+241222_060000-kakao: avg_Velocity: 9m/s, # of api call: 3, Is in allowance range? : True, -11.433333333333334
+241222_060000-Tmap: avg_Velocity: 9m/s, # of api call: 4, Is in allowance range? : True, -7.316666666666666
+241222_060318-kakao: avg_Velocity: 29m/s, # of api call: 4, Is in allowance range? : True, -11.483333333333333
+241222_060318-Tmap: avg_Velocity: 29m/s, # of api call: 4, Is in allowance range? : True, -9.416666666666666
+241222_055706-kakao: avg_Velocity: 16m/s, # of api call: 6, Is in allowance range? : True, -9.35
+241222_055706-Tmap: avg_Velocity: 16m/s, # of api call: 5, Is in allowance range? : True, -12.15
+241222_060144-kakao: avg_Velocity: 16m/s, # of api call: 5, Is in allowance range? : True, -11.183333333333334
+241222_060144-Tmap: avg_Velocity: 16m/s, # of api call: 5, Is in allowance range? : True, -7.183333333333334
+241222_060941-kakao: avg_Velocity: 6m/s, # of api call: 4, Is in allowance range? : True, -11.866666666666667
+241222_060941-Tmap: avg_Velocity: 6m/s, # of api call: 4, Is in allowance range? : True, -10.45
+241222_061330-kakao: avg_Velocity: 5m/s, # of api call: 3, Is in allowance range? : True, -12.116666666666667
+241222_061330-Tmap: avg_Velocity: 5m/s, # of api call: 3, Is in allowance range? : True, -12.483333333333333
+241222_060831-kakao: avg_Velocity: 5m/s, # of api call: 5, Is in allowance range? : True, -9.9
+241222_060831-Tmap: avg_Velocity: 5m/s, # of api call: 5, Is in allowance range? : True, -9.816666666666666
+241222_060000-kakao: avg_Velocity: 30m/s, # of api call: 5, Is in allowance range? : True, -9.483333333333333
+241222_060000-Tmap: avg_Velocity: 30m/s, # of api call: 8, Is in allowance range? : True, -8.8
+241222_061654-kakao: avg_Velocity: 6m/s, # of api call: 4, Is in allowance range? : True, -9.783333333333333
+241222_061654-Tmap: avg_Velocity: 6m/s, # of api call: 3, Is in allowance range? : True, -12.133333333333333
+241222_061608-kakao: avg_Velocity: 24m/s, # of api call: 5, Is in allowance range? : True, -11.3
+241222_061608-Tmap: avg_Velocity: 24m/s, # of api call: 5, Is in allowance range? : True, -11.35
+241222_062313-kakao: avg_Velocity: 10m/s, # of api call: 3, Is in allowance range? : True, -11.883333333333333
+241222_062313-Tmap: avg_Velocity: 10m/s, # of api call: 3, Is in allowance range? : True, -11.266666666666667
+241222_062114-kakao: avg_Velocity: 2m/s, # of api call: 5, Is in allowance range? : True, -11.366666666666667
+241222_062114-Tmap: avg_Velocity: 2m/s, # of api call: 5, Is in allowance range? : True, -11.95
+241222_061809-kakao: avg_Velocity: 3m/s, # of api call: 6, Is in allowance range? : True, -10.766666666666667
+241222_061809-Tmap: avg_Velocity: 3m/s, # of api call: 6, Is in allowance range? : True, -6.216666666666667
+241222_061117-kakao: avg_Velocity: 22m/s, # of api call: 5, Is in allowance range? : True, -10.45
+241222_061117-Tmap: avg_Velocity: 22m/s, # of api call: 5, Is in allowance range? : True, -9.65
+241222_063333-kakao: avg_Velocity: 21m/s, # of api call: 3, Is in allowance range? : True, -12.2
+241222_063333-Tmap: avg_Velocity: 21m/s, # of api call: 3, Is in allowance range? : True, -11.783333333333333
+241222_062636-kakao: avg_Velocity: 10m/s, # of api call: 3, Is in allowance range? : True, -12.433333333333334
+241222_062636-Tmap: avg_Velocity: 10m/s, # of api call: 3, Is in allowance range? : True, -10.6
+241222_062539-kakao: avg_Velocity: 12m/s, # of api call: 5, Is in allowance range? : True, -12.816666666666666
+241222_062539-Tmap: avg_Velocity: 12m/s, # of api call: 5, Is in allowance range? : True, -12.583333333333334
+241222_063046-kakao: avg_Velocity: 20m/s, # of api call: 4, Is in allowance range? : True, -12.233333333333333
+241222_063046-Tmap: avg_Velocity: 20m/s, # of api call: 4, Is in allowance range? : True, -9.5
+241222_063711-kakao: avg_Velocity: 9m/s, # of api call: 3, Is in allowance range? : True, -11.933333333333334
+241222_063711-Tmap: avg_Velocity: 9m/s, # of api call: 2, Is in allowance range? : True, -12.55
+241222_063706-kakao: avg_Velocity: 23m/s, # of api call: 5, Is in allowance range? : True, -12.35
+241222_063706-Tmap: avg_Velocity: 23m/s, # of api call: 5, Is in allowance range? : True, -10.366666666666667
+241222_064032-kakao: avg_Velocity: 15m/s, # of api call: 3, Is in allowance range? : True, -12.216666666666667
+241222_064032-Tmap: avg_Velocity: 15m/s, # of api call: 4, Is in allowance range? : True, -9.45
+241222_063658-kakao: avg_Velocity: 5m/s, # of api call: 6, Is in allowance range? : True, -10.7
+241222_063658-Tmap: avg_Velocity: 5m/s, # of api call: 5, Is in allowance range? : True, -12.75
+241222_064933-kakao: avg_Velocity: 6m/s, # of api call: 2, Is in allowance range? : True, -11.133333333333333
+241222_064933-Tmap: avg_Velocity: 6m/s, # of api call: 2, Is in allowance range? : True, -12.15
+241222_063040-kakao: avg_Velocity: 27m/s, # of api call: 6, Is in allowance range? : True, -10.033333333333333
+241222_063040-Tmap: avg_Velocity: 27m/s, # of api call: 7, Is in allowance range? : True, -12.3
+241222_063702-kakao: avg_Velocity: 27m/s, # of api call: 7, Is in allowance range? : True, -10.15
+241222_063702-Tmap: avg_Velocity: 27m/s, # of api call: 8, Is in allowance range? : True, -11.616666666666667
+241222_064953-kakao: avg_Velocity: 11m/s, # of api call: 7, Is in allowance range? : True, -12.216666666666667
+241222_064953-Tmap: avg_Velocity: 11m/s, # of api call: 7, Is in allowance range? : True, -10.833333333333334
+241222_065327-kakao: avg_Velocity: 7m/s, # of api call: 6, Is in allowance range? : True, -11.416666666666666
+241222_065327-Tmap: avg_Velocity: 7m/s, # of api call: 6, Is in allowance range? : True, -12.516666666666667
+241222_064637-kakao: avg_Velocity: 11m/s, # of api call: 5, Is in allowance range? : True, -10.466666666666667
+241222_064637-Tmap: avg_Velocity: 11m/s, # of api call: 6, Is in allowance range? : True, -11.633333333333333
+241222_065721-kakao: avg_Velocity: 22m/s, # of api call: 5, Is in allowance range? : True, -9.683333333333334
+241222_065721-Tmap: avg_Velocity: 22m/s, # of api call: 4, Is in allowance range? : True, -9.833333333333334
+241222_070559-kakao: avg_Velocity: 22m/s, # of api call: 3, Is in allowance range? : True, -12.833333333333334
+241222_070559-Tmap: avg_Velocity: 22m/s, # of api call: 4, Is in allowance range? : True, -10.566666666666666
+241222_064759-kakao: avg_Velocity: 13m/s, # of api call: 8, Is in allowance range? : True, -11.15
+241222_064759-Tmap: avg_Velocity: 13m/s, # of api call: 8, Is in allowance range? : True, -5.05
+241222_070608-kakao: avg_Velocity: 15m/s, # of api call: 5, Is in allowance range? : True, -10.583333333333334
+241222_070608-Tmap: avg_Velocity: 15m/s, # of api call: 5, Is in allowance range? : True, -10.55
+241222_070656-kakao: avg_Velocity: 17m/s, # of api call: 4, Is in allowance range? : True, -8.666666666666666
+241222_070656-Tmap: avg_Velocity: 17m/s, # of api call: 4, Is in allowance range? : True, -12.166666666666666
+241222_070527-kakao: avg_Velocity: 18m/s, # of api call: 6, Is in allowance range? : True, -10.116666666666667
+241222_070527-Tmap: avg_Velocity: 18m/s, # of api call: 4, Is in allowance range? : True, -11.35
+241222_071450-kakao: avg_Velocity: 4m/s, # of api call: 2, Is in allowance range? : True, -11.4
+241222_071450-Tmap: avg_Velocity: 4m/s, # of api call: 3, Is in allowance range? : True, -10.283333333333333
+241222_085514-kakao: avg_Velocity: 262m/s, # of api call: 2, Is in allowance range? : True, -10.166666666666666
+241222_085514-Tmap: avg_Velocity: 262m/s, # of api call: 2, Is in allowance range? : True, -11.383333333333333
+241222_161219-kakao: avg_Velocity: 19m/s, # of api call: 11, Is in allowance range? : True, -11.666666666666666
+241222_161219-Tmap: avg_Velocity: 19m/s, # of api call: 22, Is in allowance range? : True, -9.983333333333333
+241222_171802-kakao: avg_Velocity: 5m/s, # of api call: 2, # of new episodes: 0, Is in allowance range? : True, -12.183333333333334
+241222_171802-Tmap: avg_Velocity: 5m/s, # of api call: 2, # of new episodes: 0, Is in allowance range? : True, -10.833333333333334
+241222_175914-kakao: avg_Velocity: 5m/s, # of api call: 2, # of new episodes: 0, Is in allowance range? : True, -12.366666666666667
+241222_175914-Tmap: avg_Velocity: 5m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -8.3
+241222_175914-kakao: avg_Velocity: 7m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -8.316666666666666
+241222_175914-Tmap: avg_Velocity: 7m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -11.85
+241222_180012-kakao: avg_Velocity: 10m/s, # of api call: 4, # of new episodes: 1, Is in allowance range? : True, -12.333333333333334
+241222_180012-Tmap: avg_Velocity: 10m/s, # of api call: 6, # of new episodes: 2, Is in allowance range? : True, -2.5166666666666666
+241222_175914-kakao: avg_Velocity: 12m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -5.15
+241222_175914-Tmap: avg_Velocity: 12m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -12.7
+241222_175914-kakao: avg_Velocity: 20m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -5.066666666666666
+241222_175914-Tmap: avg_Velocity: 20m/s, # of api call: 4, # of new episodes: 0, Is in allowance range? : True, -10.333333333333334
+241222_175917-kakao: avg_Velocity: 5m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -11.033333333333333
+241222_175917-Tmap: avg_Velocity: 5m/s, # of api call: 4, # of new episodes: 0, Is in allowance range? : True, -10.7
+241222_180017-kakao: avg_Velocity: 7m/s, # of api call: 12, # of new episodes: 5, Is in allowance range? : True, -5.816666666666666
+241222_180017-Tmap: avg_Velocity: 7m/s, # of api call: 10, # of new episodes: 4, Is in allowance range? : True, -5.9
+241222_181222-kakao: avg_Velocity: 18m/s, # of api call: 19, # of new episodes: 12, Is in allowance range? : True, -10.083333333333334
+241222_181222-Tmap: avg_Velocity: 18m/s, # of api call: 17, # of new episodes: 10, Is in allowance range? : True, -11.216666666666667
+241222_184645-kakao: avg_Velocity: 11m/s, # of api call: 5, # of new episodes: 1, Is in allowance range? : True, -9.883333333333333
+241222_184645-Tmap: avg_Velocity: 11m/s, # of api call: 7, # of new episodes: 2, Is in allowance range? : True, -8.1
+241222_185711-kakao: avg_Velocity: 10m/s, # of api call: 5, # of new episodes: 1, Is in allowance range? : False, -18.966666666666665
+241222_185711-Tmap: avg_Velocity: 10m/s, # of api call: 7, # of new episodes: 2, Is in allowance range? : True, -11.683333333333334
+241222_190747-kakao: avg_Velocity: 20m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -12.066666666666666
+241222_190747-Tmap: avg_Velocity: 20m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -12.933333333333334
+241222_190906-kakao: avg_Velocity: 7m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -10.716666666666667
+241222_190906-Tmap: avg_Velocity: 7m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -10.516666666666667
+241222_190503-kakao: avg_Velocity: 15m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -9.083333333333334
+241222_190503-Tmap: avg_Velocity: 15m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -11.35
+241222_190059-kakao: avg_Velocity: 9m/s, # of api call: 4, # of new episodes: 0, Is in allowance range? : True, -12.083333333333334
+241222_190059-Tmap: avg_Velocity: 9m/s, # of api call: 5, # of new episodes: 0, Is in allowance range? : False, -15.516666666666667
+241222_183455-kakao: avg_Velocity: 10m/s, # of api call: 20, # of new episodes: 10, Is in allowance range? : True, -12.05
+241222_183455-Tmap: avg_Velocity: 10m/s, # of api call: 16, # of new episodes: 7, Is in allowance range? : False, -13.7
+241222_191237-kakao: avg_Velocity: 8m/s, # of api call: 4, # of new episodes: 0, Is in allowance range? : True, -9.6
+241222_191237-Tmap: avg_Velocity: 8m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -11.966666666666667
+241222_192811-kakao: avg_Velocity: 2m/s, # of api call: 4, # of new episodes: 0, Is in allowance range? : True, -10.8
+241222_192811-Tmap: avg_Velocity: 2m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -12.533333333333333
+241222_191549-kakao: avg_Velocity: 19m/s, # of api call: 24, # of new episodes: 12, Is in allowance range? : True, -8.666666666666666
+241222_191549-Tmap: avg_Velocity: 19m/s, # of api call: 24, # of new episodes: 11, Is in allowance range? : True, -10.2
+241222_200650-kakao: avg_Velocity: 9m/s, # of api call: 4, # of new episodes: 0, Is in allowance range? : True, -10.95
+241222_200650-Tmap: avg_Velocity: 9m/s, # of api call: 4, # of new episodes: 0, Is in allowance range? : True, -11.7
+241222_201459-kakao: avg_Velocity: 20m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -6.6
+241222_201459-Tmap: avg_Velocity: 20m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -11.7
+241222_200109-kakao: avg_Velocity: 20m/s, # of api call: 4, # of new episodes: 0, Is in allowance range? : True, -12.416666666666666
+241222_200109-Tmap: avg_Velocity: 20m/s, # of api call: 4, # of new episodes: 0, Is in allowance range? : True, -11.883333333333333
+241222_201854-kakao: avg_Velocity: 9m/s, # of api call: 4, # of new episodes: 0, Is in allowance range? : True, -7.6
+241222_201854-Tmap: avg_Velocity: 9m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -11.9
+241222_203541-kakao: avg_Velocity: 6m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -8.3
+241222_203541-Tmap: avg_Velocity: 6m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -10.683333333333334
+241222_210741-kakao: avg_Velocity: 18m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -5.8
+241222_210741-Tmap: avg_Velocity: 18m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -6.9
+241222_212135-kakao: avg_Velocity: 1m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -10.55
+241222_212135-Tmap: avg_Velocity: 1m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -12.0
+241222_211028-kakao: avg_Velocity: 16m/s, # of api call: 4, # of new episodes: 0, Is in allowance range? : True, -7.833333333333333
+241222_211028-Tmap: avg_Velocity: 16m/s, # of api call: 4, # of new episodes: 0, Is in allowance range? : True, -5.733333333333333
+241222_211045-kakao: avg_Velocity: 19m/s, # of api call: 5, # of new episodes: 1, Is in allowance range? : True, -9.333333333333334
+241222_211045-Tmap: avg_Velocity: 19m/s, # of api call: 5, # of new episodes: 1, Is in allowance range? : True, -12.266666666666667
+241222_214012-kakao: avg_Velocity: 18m/s, # of api call: 4, # of new episodes: 1, Is in allowance range? : True, -12.966666666666667
+241222_214012-Tmap: avg_Velocity: 18m/s, # of api call: 8, # of new episodes: 3, Is in allowance range? : True, -2.75
+241222_214010-kakao: avg_Velocity: 4m/s, # of api call: 5, # of new episodes: 2, Is in allowance range? : True, -9.05
+241222_214010-Tmap: avg_Velocity: 4m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -11.95
+241222_221620-kakao: avg_Velocity: 1m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -11.266666666666667
+241222_221620-Tmap: avg_Velocity: 1m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -12.216666666666667
+241222_221218-kakao: avg_Velocity: 15m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -11.133333333333333
+241222_221218-Tmap: avg_Velocity: 15m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -12.216666666666667
+241222_222950-kakao: avg_Velocity: 8m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -12.983333333333333
+241222_222950-Tmap: avg_Velocity: 8m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -11.15
+241222_222559-kakao: avg_Velocity: 17m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -9.55
+241222_222559-Tmap: avg_Velocity: 17m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -11.666666666666666
+241222_223939-kakao: avg_Velocity: 20m/s, # of api call: 7, # of new episodes: 3, Is in allowance range? : True, -6.583333333333333
+241222_223939-Tmap: avg_Velocity: 20m/s, # of api call: 7, # of new episodes: 3, Is in allowance range? : True, -7.883333333333334
+241222_224428-kakao: avg_Velocity: 16m/s, # of api call: 17, # of new episodes: 8, Is in allowance range? : True, -10.6
+241222_224428-Tmap: avg_Velocity: 16m/s, # of api call: 17, # of new episodes: 8, Is in allowance range? : True, -8.666666666666666
+241222_231138-kakao: avg_Velocity: 16m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -7.6
+241222_231138-Tmap: avg_Velocity: 16m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -8.6
+241222_231513-kakao: avg_Velocity: 15m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -11.933333333333334
+241222_231513-Tmap: avg_Velocity: 15m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -11.55
+241222_232638-kakao: avg_Velocity: 16m/s, # of api call: 4, # of new episodes: 0, Is in allowance range? : True, -10.833333333333334
+241222_232638-Tmap: avg_Velocity: 16m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -6.366666666666666
+241223_000106-kakao: avg_Velocity: 11m/s, # of api call: 2, # of new episodes: 0, Is in allowance range? : True, -10.183333333333334
+241223_000106-Tmap: avg_Velocity: 11m/s, # of api call: 2, # of new episodes: 0, Is in allowance range? : True, -10.416666666666666
+241223_000608-kakao: avg_Velocity: 12m/s, # of api call: 2, # of new episodes: 0, Is in allowance range? : False, -13.4
+241223_000608-Tmap: avg_Velocity: 12m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -10.316666666666666
+241223_000933-kakao: avg_Velocity: 18m/s, # of api call: 5, # of new episodes: 0, Is in allowance range? : True, -5.666666666666667
+241223_000933-Tmap: avg_Velocity: 18m/s, # of api call: 5, # of new episodes: 0, Is in allowance range? : True, -9.716666666666667
+241223_000410-kakao: avg_Velocity: 15m/s, # of api call: 9, # of new episodes: 0, Is in allowance range? : True, -10.95
+241223_000410-Tmap: avg_Velocity: 15m/s, # of api call: 6, # of new episodes: 0, Is in allowance range? : True, -8.683333333333334
+241223_003758-kakao: avg_Velocity: 9m/s, # of api call: 4, # of new episodes: 0, Is in allowance range? : True, -11.383333333333333
+241223_003758-Tmap: avg_Velocity: 9m/s, # of api call: 4, # of new episodes: 0, Is in allowance range? : True, -11.116666666666667
+241223_005129-kakao: avg_Velocity: 6m/s, # of api call: 15, # of new episodes: 4, Is in allowance range? : True, -12.916666666666666
+241223_005129-Tmap: avg_Velocity: 6m/s, # of api call: 9, # of new episodes: 2, Is in allowance range? : False, -13.3
+241223_011030-kakao: avg_Velocity: 14m/s, # of api call: 4, # of new episodes: 0, Is in allowance range? : True, -6.4
+241223_011030-Tmap: avg_Velocity: 14m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -2.933333333333333
+241223_021606-kakao: avg_Velocity: 1m/s, # of api call: 5, # of new episodes: 0, Is in allowance range? : True, -11.1
+241223_021606-Tmap: avg_Velocity: 1m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -11.866666666666667
+241223_021339-kakao: avg_Velocity: 13m/s, # of api call: 2, # of new episodes: 0, Is in allowance range? : True, -12.466666666666667
+241223_021339-Tmap: avg_Velocity: 13m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -1.65
+241223_020921-kakao: avg_Velocity: 11m/s, # of api call: 7, # of new episodes: 0, Is in allowance range? : False, -14.983333333333333
+241223_020921-Tmap: avg_Velocity: 11m/s, # of api call: 6, # of new episodes: 0, Is in allowance range? : True, -10.4
+241223_021623-kakao: avg_Velocity: 13m/s, # of api call: 8, # of new episodes: 0, Is in allowance range? : True, -8.716666666666667
+241223_021623-Tmap: avg_Velocity: 13m/s, # of api call: 8, # of new episodes: 0, Is in allowance range? : True, -8.55
+241223_022431-kakao: avg_Velocity: 10m/s, # of api call: 6, # of new episodes: 0, Is in allowance range? : True, -10.416666666666666
+241223_022431-Tmap: avg_Velocity: 10m/s, # of api call: 5, # of new episodes: 0, Is in allowance range? : True, -11.833333333333334
+241223_025659-kakao: avg_Velocity: 11m/s, # of api call: 2, # of new episodes: 0, Is in allowance range? : True, -10.166666666666666
+241223_025659-Tmap: avg_Velocity: 11m/s, # of api call: 2, # of new episodes: 0, Is in allowance range? : True, -8.9
+241223_031742-kakao: avg_Velocity: 16m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : False, -13.033333333333333
+241223_031742-Tmap: avg_Velocity: 16m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : False, -13.45
+241223_073728-kakao: avg_Velocity: 17m/s, # of api call: 8, # of new episodes: 2, Is in allowance range? : True, -8.4
+241223_073728-Tmap: avg_Velocity: 17m/s, # of api call: 6, # of new episodes: 1, Is in allowance range? : True, -11.766666666666667
+241223_074445-kakao: avg_Velocity: 10m/s, # of api call: 7, # of new episodes: 5, Is in allowance range? : True, -9.25
+241223_074445-Tmap: avg_Velocity: 10m/s, # of api call: 10, # of new episodes: 6, Is in allowance range? : True, -7.066666666666666
+241223_073725-kakao: avg_Velocity: 14m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -0.6
+241223_073725-Tmap: avg_Velocity: 14m/s, # of api call: 2, # of new episodes: 0, Is in allowance range? : True, -10.916666666666666
+241223_080848-kakao: avg_Velocity: 11m/s, # of api call: 7, # of new episodes: 3, Is in allowance range? : True, -4.25
+241223_080848-Tmap: avg_Velocity: 11m/s, # of api call: 7, # of new episodes: 3, Is in allowance range? : True, -9.216666666666667
+241223_073725-kakao: avg_Velocity: 16m/s, # of api call: 4, # of new episodes: 0, Is in allowance range? : True, -10.85
+241223_073725-Tmap: avg_Velocity: 16m/s, # of api call: 7, # of new episodes: 0, Is in allowance range? : True, -9.6
+241223_073724-kakao: avg_Velocity: 11m/s, # of api call: 2, # of new episodes: 0, Is in allowance range? : True, -4.983333333333333
+241223_073724-Tmap: avg_Velocity: 11m/s, # of api call: 6, # of new episodes: 1, Is in allowance range? : False, -15.733333333333333
+241223_073728-kakao: avg_Velocity: 9m/s, # of api call: 10, # of new episodes: 7, Is in allowance range? : True, -12.666666666666666
+241223_073728-Tmap: avg_Velocity: 9m/s, # of api call: 15, # of new episodes: 9, Is in allowance range? : True, -9.933333333333334
+241223_073725-kakao: avg_Velocity: 16m/s, # of api call: 10, # of new episodes: 1, Is in allowance range? : True, -6.916666666666667
+241223_073725-Tmap: avg_Velocity: 16m/s, # of api call: 8, # of new episodes: 1, Is in allowance range? : True, -12.9
+241223_082444-kakao: avg_Velocity: 14m/s, # of api call: 4, # of new episodes: 0, Is in allowance range? : True, -9.433333333333334
+241223_082444-Tmap: avg_Velocity: 14m/s, # of api call: 5, # of new episodes: 0, Is in allowance range? : True, -3.65
+241223_073725-kakao: avg_Velocity: 15m/s, # of api call: 2, # of new episodes: 0, Is in allowance range? : False, -13.05
+241223_073725-Tmap: avg_Velocity: 15m/s, # of api call: 8, # of new episodes: 0, Is in allowance range? : True, -10.4
+241223_081227-kakao: avg_Velocity: 7m/s, # of api call: 4, # of new episodes: 0, Is in allowance range? : True, -11.716666666666667
+241223_081227-Tmap: avg_Velocity: 7m/s, # of api call: 7, # of new episodes: 0, Is in allowance range? : True, -11.5
+241223_083926-kakao: avg_Velocity: 5m/s, # of api call: 9, # of new episodes: 2, Is in allowance range? : True, -9.75
+241223_083926-Tmap: avg_Velocity: 5m/s, # of api call: 12, # of new episodes: 4, Is in allowance range? : True, -7.716666666666667
+241223_085029-kakao: avg_Velocity: 10m/s, # of api call: 5, # of new episodes: 0, Is in allowance range? : True, -11.45
+241223_085029-Tmap: avg_Velocity: 10m/s, # of api call: 5, # of new episodes: 0, Is in allowance range? : False, -13.533333333333333
+241223_082717-kakao: avg_Velocity: 10m/s, # of api call: 7, # of new episodes: 0, Is in allowance range? : True, -12.966666666666667
+241223_082717-Tmap: avg_Velocity: 10m/s, # of api call: 9, # of new episodes: 0, Is in allowance range? : True, -6.966666666666667
+241223_090815-kakao: avg_Velocity: 10m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -12.216666666666667
+241223_090815-Tmap: avg_Velocity: 10m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -11.016666666666667
+241223_084230-kakao: avg_Velocity: 5m/s, # of api call: 8, # of new episodes: 0, Is in allowance range? : True, -11.033333333333333
+241223_084230-Tmap: avg_Velocity: 5m/s, # of api call: 7, # of new episodes: 0, Is in allowance range? : True, -8.9
+241223_084953-kakao: avg_Velocity: 7m/s, # of api call: 9, # of new episodes: 0, Is in allowance range? : True, -12.183333333333334
+241223_084953-Tmap: avg_Velocity: 7m/s, # of api call: 7, # of new episodes: 0, Is in allowance range? : False, -13.833333333333334
+241223_084222-kakao: avg_Velocity: 1m/s, # of api call: 7, # of new episodes: 0, Is in allowance range? : True, -11.166666666666666
+241223_084222-Tmap: avg_Velocity: 1m/s, # of api call: 8, # of new episodes: 0, Is in allowance range? : True, -12.85
+241223_091136-kakao: avg_Velocity: 6m/s, # of api call: 4, # of new episodes: 0, Is in allowance range? : True, -9.483333333333333
+241223_091136-Tmap: avg_Velocity: 6m/s, # of api call: 4, # of new episodes: 0, Is in allowance range? : True, -8.366666666666667
+241223_091000-kakao: avg_Velocity: 8m/s, # of api call: 6, # of new episodes: 0, Is in allowance range? : True, -9.916666666666666
+241223_091000-Tmap: avg_Velocity: 8m/s, # of api call: 6, # of new episodes: 0, Is in allowance range? : True, -10.8
+241223_082002-kakao: avg_Velocity: 2m/s, # of api call: 11, # of new episodes: 4, Is in allowance range? : False, -13.033333333333333
+241223_082002-Tmap: avg_Velocity: 2m/s, # of api call: 10, # of new episodes: 4, Is in allowance range? : False, -15.066666666666666
+241223_091932-kakao: avg_Velocity: 1m/s, # of api call: 7, # of new episodes: 0, Is in allowance range? : True, -11.283333333333333
+241223_091932-Tmap: avg_Velocity: 1m/s, # of api call: 5, # of new episodes: 0, Is in allowance range? : True, -9.133333333333333
+241223_093248-kakao: avg_Velocity: 8m/s, # of api call: 8, # of new episodes: 2, Is in allowance range? : True, -11.383333333333333
+241223_093248-Tmap: avg_Velocity: 8m/s, # of api call: 8, # of new episodes: 4, Is in allowance range? : True, -1.8833333333333333
+241223_091433-kakao: avg_Velocity: 17m/s, # of api call: 5, # of new episodes: 0, Is in allowance range? : True, -0.21666666666666667
+241223_091433-Tmap: avg_Velocity: 17m/s, # of api call: 4, # of new episodes: 0, Is in allowance range? : True, -12.0
+241223_092233-kakao: avg_Velocity: 7m/s, # of api call: 6, # of new episodes: 0, Is in allowance range? : True, -9.866666666666667
+241223_092233-Tmap: avg_Velocity: 7m/s, # of api call: 5, # of new episodes: 0, Is in allowance range? : True, -11.166666666666666
+241223_092311-kakao: avg_Velocity: 12m/s, # of api call: 5, # of new episodes: 0, Is in allowance range? : True, -8.616666666666667
+241223_092311-Tmap: avg_Velocity: 12m/s, # of api call: 5, # of new episodes: 0, Is in allowance range? : True, -10.5
+241223_094925-kakao: avg_Velocity: 13m/s, # of api call: 4, # of new episodes: 0, Is in allowance range? : True, -11.216666666666667
+241223_094925-Tmap: avg_Velocity: 13m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -12.1
+241223_091308-kakao: avg_Velocity: 1m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -8.816666666666666
+241223_091308-Tmap: avg_Velocity: 1m/s, # of api call: 7, # of new episodes: 0, Is in allowance range? : True, -11.133333333333333
+241223_093820-kakao: avg_Velocity: 20m/s, # of api call: 6, # of new episodes: 0, Is in allowance range? : False, 2.8333333333333335
+241223_093820-Tmap: avg_Velocity: 20m/s, # of api call: 5, # of new episodes: 0, Is in allowance range? : True, -12.116666666666667
+241223_094042-kakao: avg_Velocity: 17m/s, # of api call: 10, # of new episodes: 8, Is in allowance range? : False, 9.15
+241223_094042-Tmap: avg_Velocity: 17m/s, # of api call: 10, # of new episodes: 8, Is in allowance range? : False, 12.583333333333334
+241223_094714-kakao: avg_Velocity: 14m/s, # of api call: 5, # of new episodes: 0, Is in allowance range? : True, -8.0
+241223_094714-Tmap: avg_Velocity: 14m/s, # of api call: 4, # of new episodes: 0, Is in allowance range? : True, -5.9
+241223_100540-kakao: avg_Velocity: 15m/s, # of api call: 5, # of new episodes: 2, Is in allowance range? : True, -10.616666666666667
+241223_100540-Tmap: avg_Velocity: 15m/s, # of api call: 12, # of new episodes: 4, Is in allowance range? : True, -9.883333333333333
+241223_095704-kakao: avg_Velocity: 15m/s, # of api call: 5, # of new episodes: 0, Is in allowance range? : True, -11.383333333333333
+241223_095704-Tmap: avg_Velocity: 15m/s, # of api call: 5, # of new episodes: 0, Is in allowance range? : True, -12.583333333333334
+241223_100006-kakao: avg_Velocity: 2m/s, # of api call: 4, # of new episodes: 0, Is in allowance range? : True, -9.966666666666667
+241223_100006-Tmap: avg_Velocity: 2m/s, # of api call: 5, # of new episodes: 0, Is in allowance range? : True, -6.016666666666667
+241223_100716-kakao: avg_Velocity: 20m/s, # of api call: 2, # of new episodes: 0, Is in allowance range? : False, -13.183333333333334
+241223_100716-Tmap: avg_Velocity: 20m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -7.35
+241223_094804-kakao: avg_Velocity: 7m/s, # of api call: 12, # of new episodes: 5, Is in allowance range? : True, -2.183333333333333
+241223_094804-Tmap: avg_Velocity: 7m/s, # of api call: 11, # of new episodes: 5, Is in allowance range? : True, -1.7333333333333334
+241223_101951-kakao: avg_Velocity: 12m/s, # of api call: 2, # of new episodes: 0, Is in allowance range? : False, -19.083333333333332
+241223_101951-Tmap: avg_Velocity: 12m/s, # of api call: 2, # of new episodes: 0, Is in allowance range? : False, -15.65
+241223_101724-kakao: avg_Velocity: 15m/s, # of api call: 4, # of new episodes: 1, Is in allowance range? : True, -7.45
+241223_101724-Tmap: avg_Velocity: 15m/s, # of api call: 4, # of new episodes: 1, Is in allowance range? : True, -11.833333333333334
+241223_101050-kakao: avg_Velocity: 4m/s, # of api call: 4, # of new episodes: 0, Is in allowance range? : True, -9.283333333333333
+241223_101050-Tmap: avg_Velocity: 4m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -12.05
+241223_095019-kakao: avg_Velocity: 18m/s, # of api call: 8, # of new episodes: 1, Is in allowance range? : False, -17.216666666666665
+241223_095019-Tmap: avg_Velocity: 18m/s, # of api call: 5, # of new episodes: 1, Is in allowance range? : True, -10.65
+241223_101759-kakao: avg_Velocity: 7m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -12.3
+241223_101759-Tmap: avg_Velocity: 7m/s, # of api call: 5, # of new episodes: 0, Is in allowance range? : True, -7.166666666666667
+241223_102147-kakao: avg_Velocity: 6m/s, # of api call: 6, # of new episodes: 2, Is in allowance range? : True, -10.35
+241223_102147-Tmap: avg_Velocity: 6m/s, # of api call: 6, # of new episodes: 2, Is in allowance range? : True, -12.9
+241223_101020-kakao: avg_Velocity: 13m/s, # of api call: 7, # of new episodes: 5, Is in allowance range? : True, -11.133333333333333
+241223_101020-Tmap: avg_Velocity: 13m/s, # of api call: 11, # of new episodes: 6, Is in allowance range? : True, -11.133333333333333
+241223_102156-kakao: avg_Velocity: 17m/s, # of api call: 5, # of new episodes: 0, Is in allowance range? : True, -4.916666666666667
+241223_102156-Tmap: avg_Velocity: 17m/s, # of api call: 4, # of new episodes: 0, Is in allowance range? : True, -3.1666666666666665
+241223_103416-kakao: avg_Velocity: 4m/s, # of api call: 4, # of new episodes: 0, Is in allowance range? : True, -5.733333333333333
+241223_103416-Tmap: avg_Velocity: 4m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -12.766666666666667
+241223_101725-kakao: avg_Velocity: 3m/s, # of api call: 5, # of new episodes: 0, Is in allowance range? : True, -12.75
+241223_101725-Tmap: avg_Velocity: 3m/s, # of api call: 5, # of new episodes: 0, Is in allowance range? : True, -11.3
+241223_104102-kakao: avg_Velocity: 4m/s, # of api call: 4, # of new episodes: 0, Is in allowance range? : True, -10.633333333333333
+241223_104102-Tmap: avg_Velocity: 4m/s, # of api call: 4, # of new episodes: 0, Is in allowance range? : True, -10.5
+241223_104306-kakao: avg_Velocity: 2m/s, # of api call: 4, # of new episodes: 0, Is in allowance range? : True, -8.55
+241223_104306-Tmap: avg_Velocity: 2m/s, # of api call: 4, # of new episodes: 0, Is in allowance range? : True, -10.583333333333334
+241223_104116-kakao: avg_Velocity: 18m/s, # of api call: 5, # of new episodes: 0, Is in allowance range? : True, -12.05
+241223_104116-Tmap: avg_Velocity: 18m/s, # of api call: 4, # of new episodes: 0, Is in allowance range? : False, -13.733333333333333
+241223_104436-kakao: avg_Velocity: 5m/s, # of api call: 4, # of new episodes: 0, Is in allowance range? : True, -12.466666666666667
+241223_104436-Tmap: avg_Velocity: 5m/s, # of api call: 4, # of new episodes: 0, Is in allowance range? : True, -8.2
+241223_102849-kakao: avg_Velocity: 16m/s, # of api call: 6, # of new episodes: 0, Is in allowance range? : True, -11.183333333333334
+241223_102849-Tmap: avg_Velocity: 16m/s, # of api call: 5, # of new episodes: 0, Is in allowance range? : True, -9.7
+241223_101931-kakao: avg_Velocity: 3m/s, # of api call: 6, # of new episodes: 0, Is in allowance range? : True, -9.383333333333333
+241223_101931-Tmap: avg_Velocity: 3m/s, # of api call: 8, # of new episodes: 0, Is in allowance range? : True, -10.866666666666667
+241223_105831-kakao: avg_Velocity: 8m/s, # of api call: 5, # of new episodes: 0, Is in allowance range? : True, -9.85
+241223_105831-Tmap: avg_Velocity: 8m/s, # of api call: 5, # of new episodes: 0, Is in allowance range? : True, -10.633333333333333
+241223_110411-kakao: avg_Velocity: 12m/s, # of api call: 4, # of new episodes: 0, Is in allowance range? : True, -11.25
+241223_110411-Tmap: avg_Velocity: 12m/s, # of api call: 5, # of new episodes: 0, Is in allowance range? : True, -2.9166666666666665
+241223_111039-kakao: avg_Velocity: 10m/s, # of api call: 4, # of new episodes: 0, Is in allowance range? : True, -11.583333333333334
+241223_111039-Tmap: avg_Velocity: 10m/s, # of api call: 3, # of new episodes: 0, Is in allowance range? : True, -11.7
+241223_110144-kakao: avg_Velocity: 8m/s, # of api call: 5, # of new episodes: 0, Is in allowance range? : False, -14.283333333333333
+241223_110144-Tmap: avg_Velocity: 8m/s, # of api call: 4, # of new episodes: 0, Is in allowance range? : True, -7.116666666666666
+241223_102457-kakao: avg_Velocity: 8m/s, # of api call: 2, # of new episodes: 0, Is in allowance range? : True, -12.45
+241223_102457-Tmap: avg_Velocity: 8m/s, # of api call: 8, # of new episodes: 0, Is in allowance range? : True, -4.016666666666667

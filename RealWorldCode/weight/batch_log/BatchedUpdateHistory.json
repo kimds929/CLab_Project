@@ -1,0 +1,35 @@
+[
+    {
+        "model_name": "BaroNow_Algorithm3_Model",
+        "date": "20241013",
+        "transportation": "car_kakao",
+        "num_epochs": 10,
+        "losses_var": [
+            2.371002674102783
+        ],
+        "losses_pathtime": [
+            652.734130859375,
+            632.4329833984375,
+            612.3972778320312,
+            592.7840576171875,
+            573.9395751953125,
+            555.5545043945312,
+            537.7893676757812,
+            519.9995727539062,
+            502.1175842285156,
+            484.37554931640625
+        ]
+    },
+    {
+        "model_name": "BaroNow_Algorithm3_Model",
+        "date": "20241016",
+        "transportation": "car_kakao",
+        "num_epochs": 10,
+        "losses_var": [
+            1.5752216577529907
+        ],
+        "losses_pathtime": [
+            0.355454683303833
+        ]
+    }
+]
